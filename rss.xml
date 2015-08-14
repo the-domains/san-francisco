@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[San Francisco]]></title>
+        <description><![CDATA[San Francisco]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 14 Aug 2015 01:43:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[15 secret things in SF you had no idea existed]]></title>
+            <description><![CDATA[<article><h1>15 secret things in SF you had no idea existed</h1><p>Just when you thought you had seen and done everything this city has to offer, some super-handsome city guide (us!) comes along and tells you that you're wrong. And Tyler MacNiven -- owner of West of Pecos, former The Amazing Race contestant, and co-founder of SF Secrets -- has the proof.</p><img src="http://assets3.thrillist.com/v1/image/1263344/size/tmg-facebook_share"></article>]]></description>
+            <link>https://www.thrillist.com/entertainment/san-francisco/sf-secrets-you-didn-t-know-existed</link>
+            <guid isPermaLink="false">4751bb0f-4a61-46f3-ac43-abcd44060adc</guid>
+            <pubDate>Fri, 14 Aug 2015 01:43:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
