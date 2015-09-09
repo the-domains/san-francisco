@@ -1,6 +1,7 @@
 name: San Francisco
 favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.23899
 cta:
   domain: null
   bucket: null
