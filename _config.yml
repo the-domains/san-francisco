@@ -1,7 +1,6 @@
 name: San Francisco
 favicon: null
-layout_spectrum: 0.50629
-typography_spectrum: 0
+layout_spectrum: 0.40966
 cta:
   domain: null
   bucket: null
@@ -16,13 +15,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fddac4'
-    - '#f3b292'
-    - '#754b33'
-    - '#3f2212'
+    - '#071112'
+    - '#3b4749'
+    - '#ffffff'
+    - '#84a0c1'
+    - '#01d8e5'
   brandStrength: 0.5
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
